@@ -1,4 +1,4 @@
-# Randome messages - codecademy project 
+# Random messages - codecademy project 
 
 This project will randomly produce a message when ran, it will provide reason for why someone was late to an event.
 
